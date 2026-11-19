@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bridge</string>
+    <string name="a11y_description">Позволяет Mac нажимать, листать и вводить текст на этом телефоне, пока включено зеркало экрана в Bridge.</string>
+    <string name="tile_lock">Заблокировать Mac</string>
+    <string name="tile_locate">Где Mac</string>
+    <string name="tile_ring">Найти Mac</string>
+    <string name="tile_mute">Звук Mac</string>
+    <string name="tile_clip">Буфер → Mac</string>
+    <string name="share_label">Отправить на Mac</string>
+    <style name="BridgeTheme" parent="@android:style/Theme.DeviceDefault.DayNight">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
